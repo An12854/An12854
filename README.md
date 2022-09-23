@@ -1,4 +1,5 @@
 Just doing whatever i feel like doing 👍
+
 Gonna try to learn Java
 
 ![Fuck](https://img.shields.io/badge/fuck-000000?style=for-the-badge&logo=appveyor)
