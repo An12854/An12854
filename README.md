@@ -1,4 +1,7 @@
 Just doing whatever i feel like doing 👍
+Gonna try to learn Java
+
+![Fuck](https://img.shields.io/badge/fuck-000000?style=for-the-badge&logo=appveyor)
 
 [![An12854's GitHub stats](https://github-readme-stats.vercel.app/api?username=an12854)](https://github.com/anuraghazra/github-readme-stats)
 
