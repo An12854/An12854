@@ -4,6 +4,10 @@ Gonna try to learn Java
 
 [![An12854's GitHub stats](https://github-readme-stats.vercel.app/api?username=an12854)](https://github.com/anuraghazra/github-readme-stats)
 
+## Contact
+
+[![github_logo](https://icongr.am/material/github.svg)](https://github.com/An12854)
+[![discord_logo](https://icongr.am/material/discord.svg)](An12854#6583)
 <!--
 **An12854/An12854** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
