@@ -1,4 +1,4 @@
-Doing Minecraft mod development, may do another projects from time to time
+Doing Minecraft mod development, may do other projects from time to time
 
 ### languages i know
 
