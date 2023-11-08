@@ -9,7 +9,7 @@ Doing Minecraft mod development, may do other projects from time to time
 ### tools
 
 <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=idea,gradle,discord,git,github,vscode,nginx">
+    <img src="https://skillicons.dev/icons?i=idea,gradle,discord,git,github,vscode,nginx,blender,godot">
 </a>
 
 ### setup
