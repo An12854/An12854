@@ -1,1 +1,1 @@
-I don't code, just crap out stuff from time to time.
+I'd just like to interject for a moment. What you're refering to as Windows, is in fact, GNU/Windows, or as I've recently taken to calling it, GNU plus Windows.
